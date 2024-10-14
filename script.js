@@ -1,4 +1,4 @@
-// Function to append values to the input field
+// Function to append values to the input field calci
 function appendToInput(value) {
     const inputField = document.getElementById("myNumber");
     // If input is empty, do not allow leading zeros
